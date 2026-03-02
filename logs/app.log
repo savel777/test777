@@ -1,0 +1,7 @@
+12:28:35.442 [main] INFO  org.example.testng.FormTest - Start Before Method
+12:29:08.374 [main] INFO  org.example.testng.FormTest - Start Before Method
+12:29:13.713 [main] INFO  org.example.testng.FormTest - Start Test
+12:29:20.289 [main] INFO  org.example.testng.FormTest - First Name set
+12:29:25.210 [main] INFO  org.example.utils.Utils - Waiting with explicit wait: 10 seconds
+12:29:30.449 [main] INFO  org.example.testng.FormTest - Finish Test
+12:29:30.476 [main] INFO  org.example.testng.FormTest - Start After Method
